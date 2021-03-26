@@ -5,6 +5,7 @@
 
 body {
   background-color: #A5AAA3;
+  color: #812F33;
 }
 
 
@@ -28,20 +29,20 @@ body {
     line-height: 1.5;
     color: #fff !important;
     background-clip: padding-box;
-    border: 3px solid #FEA443 !important;
+    border: 1px solid #FEA443 !important;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     background-color: #812F33 !important;
 }
 
 .font-awesome {
-  color: #FEA443;
+  color: #812F33;
   font-size: 5rem;
   text-align: center;
 }
 .btn-outline-danger {
   color:#812F33;
-  border-color: #812F33;
+  border-color:#812F33;
 }
 
 .btn-outline-danger:hover {
