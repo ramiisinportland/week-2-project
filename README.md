@@ -18,7 +18,7 @@
 
 ## Description
 
-_{This is a programming language suggester that recommends a programing language to learn first for future coders.}_
+_This is a programming language suggester that recommends a programing language to learn first for future coders._
 
 ## Setup/Installation Requirements
 
