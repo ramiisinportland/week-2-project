@@ -1,5 +1,7 @@
 
-
+#result {
+  display: none;
+}
 
 body {
   background-color: #A5AAA3;
