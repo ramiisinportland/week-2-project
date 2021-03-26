@@ -33,3 +33,9 @@ body {
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     background-color: #812F33 !important;
 }
+
+.font-awesome {
+  color: #812F33;
+  font-size: 5rem;
+  text-align: center;
+}

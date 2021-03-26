@@ -11,11 +11,11 @@ $(document).ready(function() {
     if (total < 5) {
       alert("Please answer all five questions by Yes or No in order to get the result 🤥 .");
     } else if (total === 5) {
-      $(".result").text("Ruby ");
+      $(".result").text("Ruby 🥳");
     } else if (total === 7 || total >= 9) {
-      $(".result").text("C#");
+      $(".result").text("C# 🥳");
     } else if (total === 6 || total === 8) {
-      $(".result").text("JavaScript");
+      $(".result").text("JavaScript 🥳 ");
     } else {
       $(".result").text("Try again 🤥 .");
     }
